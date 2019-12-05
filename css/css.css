@@ -1,0 +1,8 @@
+.jumbotron{
+  background: #38b6ff !important;
+}
+
+.jumbotron h1{
+  font-family: 'Staatliches', cursive;
+  font-size: 4em;
+}
